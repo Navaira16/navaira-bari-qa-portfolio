@@ -30,3 +30,7 @@ Detailed test cases, actual execution results, and bug reports will be documente
 ## Project Status
 
 Case study documentation in progress.
+
+## Test Documentation
+
+Manual test cases were executed to evaluate website functionality, navigation, customer interaction workflows, and responsive presentation. Test results and identified issues are documented as part of this QA case study.
