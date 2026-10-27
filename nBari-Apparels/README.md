@@ -29,8 +29,12 @@ Testing areas include navigation, product pages, mobile layouts, and the WhatsAp
 
 ## Test Documentation
 
-Detailed manual test cases, execution results, and bug reports will be documented separately as part of this QA portfolio.
+The following document contains product details and manual test cases prepared for the nBari Apparels website.
+
+**[View Product Details & QA Test Cases (PDF)](nBari_QA_Test_Cases_and_Product_Details.pdf)**
+
+The document includes test scenarios, expected and actual results, execution status, and related testing details.
 
 ## Project Status
 
-Case study documentation in progress.
+Initial QA documentation completed and available for review.
